@@ -20,4 +20,7 @@ adding a line " THE_CLUSTER_IP assets.dev" into the hosts file. on linux its /et
   
 ## run "skaffold dev" inside the directory  
  
-https://user-images.githubusercontent.com/36383468/199176051-6597a5a1-ecb9-4e49-9a00-23ecd4547940.mp4
+
+
+https://user-images.githubusercontent.com/36383468/199176811-1e7f83f0-fac5-4ab8-8f42-edd406b7f632.mp4
+
