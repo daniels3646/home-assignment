@@ -25,6 +25,8 @@ kubernetes cluster
 
 install minikube
 
+install kubectl
+
 intall skaffold
 
 ## enable ingress
