@@ -2,14 +2,20 @@
 
 Create single page application with api to manage our assets.
 We want to be able to:
-    • Create new asset
-    • View all assets
-    • View single asset and is scans
-    • Schedule new scan job for asset
+
+• Create new asset
+
+• View all assets
+
+• View single asset and is scans
+
+• Schedule new scan job for asset
     
 two microservices:
-    • assets
-    • scans
+
+• assets
+
+• scans
     
 scheduler: bulljs
 
