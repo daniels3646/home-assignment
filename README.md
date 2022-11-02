@@ -43,3 +43,7 @@ scheduler: bulljs
 event-driven architecture - message streaming platform: NATS Streaming
 
 database: mongodb
+
+client app (SPA): angular
+
+kubernetes cluster
